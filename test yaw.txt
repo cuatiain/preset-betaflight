@@ -1,0 +1,1 @@
+set yaw_expo = 0
