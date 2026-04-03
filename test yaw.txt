@@ -3,8 +3,8 @@
 #$ CATEGORY: RATES
 #$ STATUS: OFFICIAL
 #$ KEYWORDS: rates
-#$ AUTHOR: Betaflight
-#$ DESCRIPTION: Default Betaflight rates - ACTUAL
+#$ AUTHOR: CLS
+#$ DESCRIPTION: test
 #$ PRIORITY: 0
 
 set yaw_expo = 0
