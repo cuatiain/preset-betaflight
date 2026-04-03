@@ -1,1 +1,10 @@
+#$ TITLE: YAW_expo_test
+#$ FIRMWARE_VERSION: 2025.12
+#$ CATEGORY: RATES
+#$ STATUS: 
+#$ KEYWORDS: rates
+#$ AUTHOR: Betaflight
+#$ DESCRIPTION: Default Betaflight rates - ACTUAL
+#$ PRIORITY: 0
+
 set yaw_expo = 0
